@@ -46,6 +46,7 @@ int main () {
 ```
 
 Output :
+
 ![](output/discount.png)
 
 Penjelasan :
@@ -71,6 +72,7 @@ int main() {
 ```
 
 Output :
+
 ![](output/forloop.png)
 
 Penjelasan :
@@ -96,6 +98,7 @@ int main() {
 ```
 
 Output :
+
 ![](output/increment.png)
 
 Penjelasan :
@@ -121,6 +124,7 @@ int main() {
 ```
 
 Output :
+
 ![](output/konversi.png)
 
 Penjelasan :
@@ -157,6 +161,7 @@ int main() {
 ```
 
 Output :
+
 ![](output/1.png)
 
 Penjelasan :
@@ -216,6 +221,7 @@ int main() {
 ```
 
 Output :
+
 ![](output/2.png)
 
 Penjelasan :
@@ -262,6 +268,7 @@ int main() {
 ```
 
 Output :
+
 ![](output/3.png)
 
 Penjelasan :
