@@ -44,8 +44,10 @@ int main () {
     return 0;
 }
 ```
+
 Output :
 ![](output/discount.png)
+
 Penjelasan :
 Program ini ngecek total belanja wak. Kalau belanja lebih dari atau sama dengan 30 ribu, nanti dapet diskon 10% . Tapi kalau belanjanya kurang dari itu, program bilang kita nggak dapet diskon karena “langka modal”.
 
@@ -67,8 +69,10 @@ int main() {
 
 }
 ```
+
 Output :
 ![](output/forloop.png)
+
 Penjelasan :
 Program ini  buat ngulang-ngulang tulisan. Pertama program bertanya  dulu, “Tulis berapa banyak Perulangan?”. Nah, angka yang masukin itu bakal jadi patokan berapa kali kalimat dicetak. Misalnya kamu masukin 3 , maka program bakal ngulang 3 kali tulisan begitu wak
 
@@ -90,8 +94,10 @@ int main() {
 
 }
 ```
+
 Output :
 ![](output/increment.png)
+
 Penjelasan :
 Program ini memiliki variabel  interger dan nilai r = 20. Karena ada ++r, nilai r langsung naik jadi 21 sebelum dipakai, sehingga s = 20 + 21 = 41. Hasil akhirnya, r bernilai 21 dan s bernilai 41.
 
@@ -113,8 +119,10 @@ int main() {
 
 }
 ```
+
 Output :
 ![](output/konversi.png)
+
 Penjelasan :
 Program ini buat ngubah suhu dari Celcius ke Fahrenheit. Pengguna masukin suhu dalam Celcius, lalu program ngitung pake rumus (9/5)×celcius+32. Hasilnya ditampilin dalam Fahrenheit dan sedikit pesan 
 
@@ -147,8 +155,10 @@ int main() {
 }
 
 ```
+
 Output :
 ![](output/1.png)
+
 Penjelasan :
 Program ini kayak kalkulator sederhana. Pengguna masukin dua angka desimal atau koma koma, lalu program langsung ngitung hasil penjumlahan(+), pengurangan(-), perkalian(), dan pembagian(/), terus ditampilin satu per satu. Semua operasi disimpan di variabel terpisah biar hasilnya nggak ketimpa.
 
@@ -204,8 +214,10 @@ int main() {
 }
 
 ```
+
 Output :
 ![](output/2.png)
+
 Penjelasan :
 Program ini dipakai buat ngubah angka 0 sampai 100 menjadi bentuk tulisan. Pertama, program minta input angka dari user. Kalau angka yang dimasukkan kurang dari 0 atau lebih dari 100, program akan menampilkan pesan kalau angkanya tidak valid. Kalau valid, program baru bisa berjalan. Untuk angka seperti 0 akan ditulis “nol” dan 100 ditulis “seratus”. Kalau angkanya 1 sampai 9, program mengambil kata dari array satuan. Kalau angkanya 10 sampai 19, program mengambil dari array belasan yang sudah disiapkan. Sementara untuk angka 20 sampai 99, program memecah angka menjadi puluhan dan satuan, lalu menggabungkannya. Misalnya angka 79 akan dipecah jadi “tujuh puluh” dan “sembilan”, sehingga hasilnya “tujuh puluh sembilan”.
 
@@ -248,8 +260,10 @@ int main() {
 }
 
 ```
+
 Output :
 ![](output/3.png)
+
 Penjelasan :
 Program ini dipakai buat bikin segitiga dari angka dan bintang di tengah. Pertama, program minta user masukin sebuah angka n sebagai tinggi segitiga. Lalu dengan perulangan, program membuat baris demi baris mulai dari angka terbesar sampai 1. Di tiap baris, program tambahin spasi di depan agar posisi bintang selalu lurus ke bawah. lalu , angka dicetak dari besar ke kecil di sisi kiri, lalu bintang, lalu angka naik di sisi kanan. Pola ini berlanjut sampai angka habis, dan di bagian paling bawah program mencetak satu bintang saja tepat sejajar dengan bintang-bintang di atasnya. Jadi hasil akhirnya berbentuk segitiga angka dengan bintang sebagai sumbu tengahnya .
 
