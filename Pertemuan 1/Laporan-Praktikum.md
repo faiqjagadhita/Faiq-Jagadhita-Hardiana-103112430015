@@ -3,7 +3,7 @@
 ## 1. Nama, NIM, Kelas
 - **Nama**: Fa'iq Jagadhita Hardiana
 - **NIM**: 103112430015
-- **Kelas**: S1-IF-05
+- **Kelas**: 12-IF-05
 
 ## 2. Motivasi Belajar Struktur Data
 tentunya karena harus lulus stuktur data biar lulus, dan mungkin agak semangat dikit belajar bahasa baru yaitu c++ ya walaupun susah di cerna di saya lebih tepatnya butuh waktu ibaratnya loading wakk
