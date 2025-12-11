@@ -183,7 +183,7 @@ File main.cpp berperan sebagai bagian eksekusi yang menjalankan seluruh fungsi y
 
 Ouput :
 
-![](output/1.png)
+![](ouput/1.png)
 
 ## 5. Unguided
 ### 5.1 circularlist.h
@@ -448,7 +448,7 @@ File main.cpp berfungsi sebagai bagian eksekusi yang mengintegrasikan seluruh fu
 
 Output:
 
-![](output/2.png)
+![](ouput/2.png)
 
 ## 6. Kesimpulan
  circular linked list pada program ini menunjukkan bagaimana struktur data dapat dikelola secara efisien melalui hubungan elemen yang tersusun melingkar. Pemisahan fungsi di setiap file membantu membangun alur kerja yang lebih terstruktur: _circularlist.h_ merancang tipe data serta prototipe fungsi, _circularlist.cpp_ mengisi logika manipulasi list, dan _main.cpp_ menguji seluruh operasi dalam konteks penggunaan nyata. Operasi dasar seperti penyisipan, penghapusan, pencarian, dan penelusuran dirancang untuk tetap mempertahankan karakter sirkular, sehingga elemen dapat diakses secara terus-menerus tanpa titik awal atau akhir yang tetap. Secara keseluruhan, implementasi ini menegaskan keunggulan circular linked list dalam hal fleksibilitas dan kestabilan, terutama untuk kebutuhan pengolahan data yang dinamis.
